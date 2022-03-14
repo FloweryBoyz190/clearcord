@@ -7,8 +7,8 @@
     --interactive-hover: var(--text-normal);
     --interactive-active: var(--text-normal);
     --header-secondary: rgb(204, 204, 204);
-    --background-modifier-accent: rgba(0,0,0,0);
-    --text-muted: rgba(0,0,0,0);
+    --background-modifier-accent: rgba(255,255,255,0);
+    --text-muted: rgb(128, 128, 128);
     --text-link: rgb(72, 222, 233);
     --text-positive: rgb(98, 185, 67);
     --text-positive-opacity: rgba(98, 255, 67, var(--opacity));
